@@ -1,4 +1,4 @@
-### Hi there, I'm Shourya Gupta - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) 👋
+### Hi there, I'm Shourya Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <br> - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/)
 
 
 ## I'm a Student as well as Frontend and Backend Developer!!
