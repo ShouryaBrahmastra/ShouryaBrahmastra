@@ -44,6 +44,7 @@
 - [Exam-buddy](https://shouryabrahmastra.github.io/Exam-buddy/)
 - [New Year's Countdown](https://shouryabrahmastra.github.io/Newyear-Countdown/)
 - [2 Operand Calculator](https://shouryabrahmastra.github.io/two_operand_calculator/)
+- [Durga Puja](https://shouryabrahmastra.github.io/Durga-Puja/)
 
 
 ---
