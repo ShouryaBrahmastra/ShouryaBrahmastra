@@ -59,4 +59,11 @@
 ### GitHub Stats
 ![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)
 
+---
+<br/>
+<br/>
 
+<a href="https://github.com/ShouryaBrahmastra/github-readme-activity-graph"><img alt="ShouryaBrahmastra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShouryaBrahmastra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
