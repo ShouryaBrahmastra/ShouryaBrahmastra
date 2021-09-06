@@ -60,7 +60,7 @@
 ![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)
 
 ---
-##😍😍 Views and Followers ❤❤ <br> <br>
+#😍😍 Views and Followers ❤❤ <br> <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ShouryaBrahmastra">
 </a>
