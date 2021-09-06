@@ -45,7 +45,7 @@
 ---
 
 ### 📚📂 Latest Works
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Personal Portfolio](https://shouryaportfolio.herokuapp.com/)
