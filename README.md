@@ -45,6 +45,7 @@
 ---
 
 ### 📚📂 Latest Works
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Personal Portfolio](https://shouryaportfolio.herokuapp.com/)
@@ -58,6 +59,7 @@
 - [New Year's Countdown](https://shouryabrahmastra.github.io/Newyear-Countdown/)
 - [2 Operand Calculator](https://shouryabrahmastra.github.io/two_operand_calculator/)
 - [Durga Puja](https://shouryabrahmastra.github.io/Durga-Puja/)
+- [Personal Jamboard](https://shouryabrahmastra.github.io/Personal-Jamboard/)
 
 
 ---
