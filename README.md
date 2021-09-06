@@ -1,4 +1,5 @@
 ### Hi there, I'm Shourya Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <br> - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/)
+![We live here](https://i1.wp.com/www.wordzz.com/wp-content/uploads/2017/05/lord-shiva-on-mountain.gif)
 
 
 ## I'm a Student as well as Frontend and Backend Developer!!
