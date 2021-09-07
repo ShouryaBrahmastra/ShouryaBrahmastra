@@ -3,7 +3,6 @@
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Both+Frontend+and+Backend;Full+Time+HTML+CSS+Developer;Always+learning+new+things+"></a>
 </p>
 <p align="center">
-<img src="https://i1.wp.com/www.wordzz.com/wp-content/uploads/2017/05/lord-shiva-on-mountain.gif" width="300px"></p>
 
 
 ## I'm a Student as well as Frontend and Backend Developer!!
