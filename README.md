@@ -79,3 +79,4 @@
 
 <br/>
 <br/>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
