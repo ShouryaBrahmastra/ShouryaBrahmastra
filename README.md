@@ -61,6 +61,8 @@
 - [2 Operand Calculator](https://shouryabrahmastra.github.io/two_operand_calculator/)
 - [Durga Puja](https://shouryabrahmastra.github.io/Durga-Puja/)
 - [Personal Jamboard](https://shouryabrahmastra.github.io/Personal-Jamboard/)
+- [Time Manager](https://shouryabrahmastra.github.io/Timemanager/dist/index.html)
+- [Certificate Generator](https://shouryabrahmastra.github.io/certificate-maker/)
 
 
 ---
@@ -79,6 +81,4 @@
 
 <a href="https://github.com/ShouryaBrahmastra/github-readme-activity-graph"><img alt="ShouryaBrahmastra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShouryaBrahmastra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
