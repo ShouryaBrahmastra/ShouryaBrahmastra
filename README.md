@@ -1,10 +1,10 @@
 ### Hi there, I'm Shourya Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <br> - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
-<img align="right" alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" />
+
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Both+Frontend+and+Backend;Full+Time+HTML+CSS+Developer;Always+learning+new+things+"></a>
 </p>
 <p align="center">
-
+<img align="center" alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" />
 
 ## I'm a Student as well as Frontend and Backend Developer!!
 
