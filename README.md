@@ -63,6 +63,8 @@
 - [Personal Jamboard](https://shouryabrahmastra.github.io/Personal-Jamboard/)
 - [Time Manager](https://shouryabrahmastra.github.io/Timemanager/dist/index.html)
 - [Certificate Generator](https://shouryabrahmastra.github.io/certificate-maker/)
+- [Periodic Table](https://shouryabrahmastra.github.io/Periodic-Table/)
+
 
 
 ---
