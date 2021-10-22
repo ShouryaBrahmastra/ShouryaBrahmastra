@@ -74,7 +74,9 @@
 
 ---
 ### GitHub Stats
-![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="300" /><p>
+![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
+
 
 ---
 #😍😍 Views and Followers ❤❤ <br> <br>
