@@ -1,3 +1,4 @@
+##  <img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" />
 ### Hi there, I'm Shourya Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
 
 <p align="center">
