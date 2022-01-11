@@ -13,7 +13,7 @@
 	
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate with other content creators
 	
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, play volleyball🏐 & play video games🎮
 	
 
