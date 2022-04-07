@@ -72,6 +72,7 @@
 - [Periodic Table](https://shouryabrahmastra.github.io/Periodic-Table/)
 - [Netflix Clone](https://netfix-clone-b5812.web.app/)
 - [SUPERCARS](https://dopecars.netlify.app/)
+- [Video app using videosdk.live](https://shouryabrahmastra.github.io/Video-call/)
 
 
 
