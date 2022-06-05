@@ -1,5 +1,5 @@
 ##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
-### Hi there, I'm Shourya Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
+### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Obessive+Developer;Both+Frontend+and+Backend;Full+Time+HTML+CSS+Developer;Always+learning+new+things+"></a>
