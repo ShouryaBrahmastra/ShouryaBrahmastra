@@ -73,6 +73,7 @@
 - [Netflix Clone](https://netfix-clone-b5812.web.app/)
 - [SUPERCARS](https://dopecars.netlify.app/)
 - [Video app using videosdk.live](https://shouryabrahmastra.github.io/Video-call/)
+- [Jaadoo Snake](https://shouryabrahmastra.github.io/Jaadoo-Snake/)
 
 
 
