@@ -74,6 +74,7 @@
 - [SUPERCARS](https://dopecars.netlify.app/)
 - [Video app using videosdk.live](https://shouryabrahmastra.github.io/Video-call/)
 - [Jaadoo Snake](https://shouryabrahmastra.github.io/Jaadoo-Snake/)
+- [DURGA PUJA 2022](https://shouryabrahmastra.github.io/Durga-Puja-2022/)
 
 
 
