@@ -1,3 +1,4 @@
+[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)
 ##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
 ### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
 
@@ -7,7 +8,7 @@
 <p align="center">
 <img align="center" alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" />
 	<br>
-[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)
+
 
 ## I'm a Student as well as Frontend and Backend Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
