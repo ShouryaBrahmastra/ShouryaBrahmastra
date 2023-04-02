@@ -59,7 +59,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
-- [Personal Portfolio](https://shouryaportfolio.herokuapp.com/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
 - [Digital responsive clock](https://shouryabrahmastra.github.io/clock/)
 - [tic-tac-game](https://shouryabrahmastra.github.io/tic-tac-game/)
