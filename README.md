@@ -110,6 +110,6 @@
 
 ---
 <div  align="center">
-<img  width="70%" src="./assets/pussy.gif" align="center"/></div>
+<img  width="70%" src="./assets/puss.gif" align="center"/></div>
 
 
