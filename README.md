@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Obessive+Developer;Both+Frontend+and+Backend;Full+Time+HTML+CSS+Developer;Always+learning+new+things+"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Volleyball+Player;Web+Developer+;System+security+analysis+;OS+installation+;Computing+Troubleshooter;Linux+lover;Ethical+Hacker;Artist"></a>
 </p>
  <p align="center"><img  alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" /></p>
  <br>
