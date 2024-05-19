@@ -113,6 +113,17 @@
 
 
 ---
+
+## Open Source Contribution Snapshot
+```mermaid
+flowchart LR
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally| creatpr((Create a Pull Request))
+    
+ ```
+
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
 <a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/guestbook.gif" alt="Guest book" align="center"></a>
