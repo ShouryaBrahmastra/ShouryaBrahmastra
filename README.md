@@ -97,7 +97,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ShouryaBrahmastra/github-readme-activity-graph"><img alt="ShouryaBrahmastra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShouryaBrahmastra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ---
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
@@ -110,6 +110,6 @@
 
 ---
 <div  align="center">
-<img  width="70%" src="./assets/puss.gif" align="center"/></div>
+<img  width="70%" src="./assets/pussy.gif" align="center"/></div>
 
 
