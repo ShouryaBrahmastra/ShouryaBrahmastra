@@ -80,8 +80,9 @@
 - [Jaadoo Snake](https://shouryabrahmastra.github.io/Jaadoo-Snake/)
 - [DURGA PUJA 2022](https://shouryabrahmastra.github.io/Durga-Puja-2022/)
 
-
-
+---
+## 🏆 GitHub Trophies
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra&theme=midnight_purple" alt="ShouryaBrahmastra" /></a> 
 
 ---
 ## GitHub Stats
@@ -110,7 +111,9 @@
 <br/>
 <br/>
 
-
+---
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&border=nonev&theme=midnight_purple)
 
 
 ---
