@@ -52,14 +52,11 @@
     </a>
 </p>
 
-
-***
-
 ---
 ### 📚📂 My Works
 ---
 <div  align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" /></div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>
+<!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
@@ -108,7 +105,7 @@
 </div>
 
 <hr>
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="./assets/snake.svg" /></div>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ---
