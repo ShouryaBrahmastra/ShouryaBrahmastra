@@ -88,7 +88,7 @@
 
 
 ---
-#😍😍 Views and Followers ❤❤ <br> <br>
+## 😍😍 Views and Followers ❤❤ <br> <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ShouryaBrahmastra">
 </a>
@@ -97,6 +97,8 @@
 <br/>
 <br/>
 
+## 🖋🖋 Contribution Graph🐱‍👤📙📙  <br> <br>
+[![Shourya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShouryaBrahmastra&theme=react-dark&hide_border=true&area=true)](https://github.com/ShouryaBrahmastra/github-readme-activity-graph)
 
 ---
 <div align="center">
