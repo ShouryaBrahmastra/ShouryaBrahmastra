@@ -28,7 +28,7 @@
 [![LinkedIn](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
 [![Twitter](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png)](https://twitter.com/Shourya_Nishi)
 [![Telegram](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png)](t.me/shouryabrahmastra)
-[![Telegram](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png)](https://www.instagram.com/shouryagupta2002/)
+<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="https://www.instagram.com/shouryagupta2002/" alt="Instagram" width="65px" />
 [![Mail](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png)](mailto:gptshourya02@gmail.com)
 
 
