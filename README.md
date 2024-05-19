@@ -1,4 +1,6 @@
 <!---[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)--->
+<img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper"/>
+
 ##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
 ### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
