@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I love to draw, play volleyball🏐 & play video games🎮
 	
 
-### Connect with me:
+## Connect with me:
 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Shourya_Nishi)
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔧Languages and Tools:
+## 🔧Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://shouryaportfolio.herokuapp.com/)
@@ -53,7 +53,7 @@
 </p>
 
 ---
-### 📚📂 My Works
+## 📚📂 My Works
 ---
 <div  align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" /></div>
 <!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
@@ -83,17 +83,19 @@
 
 
 ---
-### GitHub Stats
+## GitHub Stats
 ![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
 
 
 ---
+
 ## 😍😍 Views and Followers ❤❤ <br> <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ShouryaBrahmastra">
 </a>
 <a href="https://github.com/ShouryaBrahmastra?tab=followers"><img src="https://img.shields.io/github/followers/ShouryaBrahmastra?label=Followers&style=social" alt="GitHub Badge"></a>
 ---
+
 <br/>
 <br/>
 
