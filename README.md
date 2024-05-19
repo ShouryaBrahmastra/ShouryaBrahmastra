@@ -60,7 +60,7 @@
 ## 📚📂 My Works
 ---
 <p align="center">
-	<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
+	<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/code.gif" width="300" />
 </p1>
 <!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
 
