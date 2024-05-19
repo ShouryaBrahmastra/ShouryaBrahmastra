@@ -113,7 +113,9 @@
 
 ---
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&border=nonev&theme=midnight_purple)
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=algolia" alt="motivation"/>
+</p>
 
 
 ---
