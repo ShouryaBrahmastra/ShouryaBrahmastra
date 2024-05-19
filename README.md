@@ -5,9 +5,7 @@
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Obessive+Developer;Both+Frontend+and+Backend;Full+Time+HTML+CSS+Developer;Always+learning+new+things+"></a>
 </p>
-<p align="center">
-<img align="center" alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" />
-	<br>
+
 	
 
 
@@ -59,8 +57,8 @@
 ---
 ### 📚📂 My Works
 ---
-<div  align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" /></div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="300" /><p>
+<div  align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" /></div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
@@ -88,7 +86,7 @@
 
 ---
 ### GitHub Stats
-![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ______ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
+![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ____<img  alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" />____![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
 
 
 ---
@@ -114,6 +112,6 @@
 
 ---
 <div  align="center">
-<img  width="70%" src="./assets/pussy.gif" align="center"/></div>
+<img  width="80%" src="./assets/pussy.gif" align="center"/></div>
 
 
