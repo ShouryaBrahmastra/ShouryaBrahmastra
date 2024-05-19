@@ -109,6 +109,7 @@
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ---
-<img width="50%" src="./assets/pussy.gif"/>
+<div  align="center">
+<img  width="70%" src="./assets/pussy.gif" align="center"/></div>
 
 
