@@ -84,7 +84,17 @@
 
 ---
 ## GitHub Stats
-![Shourya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShouryaBrahmastra&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaBrahmastra&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
+<p align="center">
+  <a href="https://github.com/ShouryaBrahmastra">
+	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaBrahmastra&theme=midnight_purple" alt="GitHub Contribution"/>
+	  <br>
+	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShouryaBrahmastra&theme=midnight_purple" alt="GitHub Contribution"/>
+	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShouryaBrahmastra&theme=midnight_purple" alt="GitHub Contribution"/>
+	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShouryaBrahmastra&theme=midnight_purple" alt="GitHub Contribution"/>
+	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShouryaBrahmastra&theme=midnight_purple&utcOffset=25" alt="card"/>
+  </a>
+</p>
+<br>
 
 
 ---
@@ -99,10 +109,8 @@
 <br/>
 <br/>
 
----
 
-## 🖋🖋 Contribution Graph🐱‍👤📙📙  <br> <br>
-[![Shourya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShouryaBrahmastra&theme=react-dark&hide_border=true&area=true)](https://github.com/ShouryaBrahmastra/github-readme-activity-graph)
+
 
 ---
 <div align="center">
