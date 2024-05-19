@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>
 
 ##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
-### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
+### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shourya-portfolio.netlify.app/) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
 
 <p align="center">
@@ -66,24 +66,13 @@
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
-- [Digital responsive clock](https://shouryabrahmastra.github.io/clock/)
-- [tic-tac-game](https://shouryabrahmastra.github.io/tic-tac-game/)
-- [GK-quiz](https://shouryabrahmastra.github.io/GK-quiz/)
-- [Har Har Mahadev](https://shouryabrahmastra.github.io/Sawan-Special/)
-- [Hamburger-menu](https://shouryabrahmastra.github.io/Hamburger-menu/)
-- [Exam-buddy](https://shouryabrahmastra.github.io/Exam-buddy/)
-- [New Year's Countdown](https://shouryabrahmastra.github.io/Newyear-Countdown/)
-- [2 Operand Calculator](https://shouryabrahmastra.github.io/two_operand_calculator/)
+- [Digital responsive clock](https://shouryabrahmastra.github.io/LampTime-Date/)
+- [Threat Analyzer Vulnweb_Detailed_Report ](https://shouryabrahmastra.github.io/Vulnweb_Detailed_Report/)
 - [Durga Puja](https://shouryabrahmastra.github.io/Durga-Puja/)
 - [Personal Jamboard](https://shouryabrahmastra.github.io/Personal-Jamboard/)
-- [Time Manager](https://shouryabrahmastra.github.io/Timemanager/dist/index.html)
-- [Certificate Generator](https://shouryabrahmastra.github.io/certificate-maker/)
-- [Periodic Table](https://shouryabrahmastra.github.io/Periodic-Table/)
+- [Music App](https://music-app-sg.netlify.app/)
 - [Netflix Clone](https://netfix-clone-b5812.web.app/)
-- [SUPERCARS](https://dopecars.netlify.app/)
-- [Video app using videosdk.live](https://shouryabrahmastra.github.io/Video-call/)
-- [Jaadoo Snake](https://shouryabrahmastra.github.io/Jaadoo-Snake/)
-- [DURGA PUJA 2022](https://shouryabrahmastra.github.io/Durga-Puja-2022/)
+- [Gym Ui/UX](https://gym-landing-sg.netlify.app/)
 
 ---
 ## 🏆 GitHub Trophies
