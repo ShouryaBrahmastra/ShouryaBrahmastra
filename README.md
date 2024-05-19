@@ -55,10 +55,13 @@
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DF0000" alt="GitHub Streak" /></a>
 </p>
 
+
 ---
 ## 📚📂 My Works
 ---
-<div  align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" /></div>
+<p align="center">
+	<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
+</p1>
 <!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
 
 - [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
