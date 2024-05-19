@@ -1,12 +1,12 @@
 <!---[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)--->
-<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/kvacm-early-evening.jpg" border-radius="10px" alt="wallpaper"/>
+<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>
 
 ##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
-### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shouryaportfolio.herokuapp.com/) <br>
+### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shourya-portfolio.netlify.app/) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Volleyball+Player;Web+Developer+;System+security+analysis+;OS+installation+;Computing+Troubleshooter;Linux+lover;Ethical+Hacker;Artist"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Volleyball+Player;Web+Developer+;Network+security+analysis+;OS+installation+;Computing+Troubleshooter;Linux+lover;Ethical+Hacker;Artist"></a>
 </p>
  <p align="center"><img  alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" /></p>
  <br>
@@ -64,26 +64,15 @@
 </p1>
 <!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
 
-- [Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
+- [1st Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
-- [Digital responsive clock](https://shouryabrahmastra.github.io/clock/)
-- [tic-tac-game](https://shouryabrahmastra.github.io/tic-tac-game/)
-- [GK-quiz](https://shouryabrahmastra.github.io/GK-quiz/)
-- [Har Har Mahadev](https://shouryabrahmastra.github.io/Sawan-Special/)
-- [Hamburger-menu](https://shouryabrahmastra.github.io/Hamburger-menu/)
-- [Exam-buddy](https://shouryabrahmastra.github.io/Exam-buddy/)
-- [New Year's Countdown](https://shouryabrahmastra.github.io/Newyear-Countdown/)
-- [2 Operand Calculator](https://shouryabrahmastra.github.io/two_operand_calculator/)
+- [Digital responsive clock](https://shouryabrahmastra.github.io/LampTime-Date/)
+- [Threat Analyzer Vulnweb_Detailed_Report ](https://shouryabrahmastra.github.io/Vulnweb_Detailed_Report/)
 - [Durga Puja](https://shouryabrahmastra.github.io/Durga-Puja/)
 - [Personal Jamboard](https://shouryabrahmastra.github.io/Personal-Jamboard/)
-- [Time Manager](https://shouryabrahmastra.github.io/Timemanager/dist/index.html)
-- [Certificate Generator](https://shouryabrahmastra.github.io/certificate-maker/)
-- [Periodic Table](https://shouryabrahmastra.github.io/Periodic-Table/)
+- [Music App](https://music-app-sg.netlify.app/)
 - [Netflix Clone](https://netfix-clone-b5812.web.app/)
-- [SUPERCARS](https://dopecars.netlify.app/)
-- [Video app using videosdk.live](https://shouryabrahmastra.github.io/Video-call/)
-- [Jaadoo Snake](https://shouryabrahmastra.github.io/Jaadoo-Snake/)
-- [DURGA PUJA 2022](https://shouryabrahmastra.github.io/Durga-Puja-2022/)
+- [Gym Ui/UX](https://gym-landing-sg.netlify.app/)
 
 ---
 ## 🏆 GitHub Trophies
@@ -124,6 +113,17 @@
 
 
 ---
+
+## Open Source Contribution Snapshot
+```mermaid
+flowchart LR
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally| creatpr((Create a Pull Request))
+    
+ ```
+
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
 <a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/guestbook.gif" alt="Guest book" align="center"></a>
