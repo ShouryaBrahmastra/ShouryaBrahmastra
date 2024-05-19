@@ -46,10 +46,10 @@
 
 
 ---
+
+
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShouryaBrahmastra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaBrahmastra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
