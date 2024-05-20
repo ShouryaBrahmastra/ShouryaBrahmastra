@@ -24,17 +24,23 @@
 	
 
 ## Connect with me:
-
-[![LinkedIn](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
-[![Twitter](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png)](https://twitter.com/Shourya_Nishi)
-[![Telegram](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png)](t.me/shouryabrahmastra)
-<a href="https://www.instagram.com/shouryagupta2002/">
-	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="https://www.instagram.com/shouryagupta2002/" alt="Instagram" width="65px" />
-</a>
-[![Mail](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png)](mailto:gptshourya02@gmail.com)
-
-
-<br />
+<p align="center">
+	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px"  hspace="20" />
+	</a>
+	<a href="https://twitter.com/Shourya_Nishi">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px"  hspace="20" />
+	</a>
+	<a href="t.me/shouryabrahmastra">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px"  hspace="20" />
+	</a>
+	<a href="https://www.instagram.com/shouryagupta2002/">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px"  hspace="20" />
+	</a>
+	<a href="mailto:gptshourya02@gmail.com">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px"  hspace="20" />
+	</a>
+</p>
 
 ---
 
@@ -52,11 +58,10 @@
 
 ---
 
+<!---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DF0000" alt="GitHub Streak" /></a>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>--->
 
 ---
 ## 📚📂 My Works
@@ -125,6 +130,9 @@ flowchart LR
     commit -->|Finally| creatpr((Create a Pull Request))
     
  ```
+
+## Contribution Graph
+[![Shourya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShouryaBrahmastra&theme=react-dark&hide_border=true&area=true)](https://github.com/ShouryaBrahmastra/github-readme-activity-graph)
 
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
