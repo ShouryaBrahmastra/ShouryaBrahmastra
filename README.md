@@ -235,6 +235,7 @@ flowchart LR
 
 ---
 <div  align="center">
-<img  width="100%" src="./assets/matrix.gif" align="center"/></div>
+	<img  width="50%" src="./assets/matrix.gif" align="center"/>
+</div>
 
 
