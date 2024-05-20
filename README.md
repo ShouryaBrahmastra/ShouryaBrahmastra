@@ -144,19 +144,14 @@
 </p>
 
 
-
-
-
----
-
 <!---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)--->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>--->
 
 ---
+
 ## 📚📂 My Works
----
+
 <p align="center">
 	<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/code.gif" width="300" />
 </p1>
@@ -178,6 +173,10 @@
 
 ---
 ## GitHub Stats
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</p>
+<br>
 <p align="center">
   <a href="https://github.com/ShouryaBrahmastra">
 	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaBrahmastra&theme=midnight_purple" alt="GitHub Contribution"/>
