@@ -25,19 +25,19 @@
 
 ## Connect with me:
 <p align="center">
-	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/">
+	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px"  hspace="20" />
 	</a>
-	<a href="https://twitter.com/Shourya_Nishi">
+	<a href="https://twitter.com/Shourya_Nishi" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px"  hspace="20" />
 	</a>
-	<a href="t.me/shouryabrahmastra">
+	<a href="t.me/shouryabrahmastra" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px"  hspace="20" />
 	</a>
-	<a href="https://www.instagram.com/shouryagupta2002/">
+	<a href="https://www.instagram.com/shouryagupta2002/" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px"  hspace="20" />
 	</a>
-	<a href="mailto:gptshourya02@gmail.com">
+	<a href="mailto:gptshourya02@gmail.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px"  hspace="20" />
 	</a>
 </p>
@@ -46,13 +46,104 @@
 
 ## 🔧Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://shouryaportfolio.herokuapp.com/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://shouryabrahmastra.github.io/clock/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://shouryabrahmastra.github.io/Exam-buddy/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/ShouryaBrahmastra)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p align="center">
+	<img src="./assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
+	<img src="./assets/python-original.svg"  alt="python" width="35px"  hspace="2" />
+	<img src="./assets/java-original.svg"  alt="java" width="35px"  hspace="2" />
+	<img src="./assets/javascript-plain.svg"  alt="javascript" width="35px"  hspace="2" />
+	<img src="./assets/html.png"  alt="html" width="35px"  hspace="2" />
+	<img src="./assets/css.png"  alt="css" width="35px"  hspace="2" />
+	<img src="./assets/bash-original.svg"  alt="bash" width="35px"  hspace="2" />
+	<img src="./assets/json-original.svg"  alt="json" width="35px"  hspace="2" />
+	<img src="./assets/sql.png"  alt="sql" width="35px"  hspace="2" />
+	<img src="./assets/powershell-original.svg"  alt="powershell" width="35px"  hspace="2" />
+	<img src="./assets/nano-original.svg"  alt="nano" width="35px"  hspace="2" />
+	<img src="./assets/markdown-original.svg"  alt="" width="40px"  hspace="2" />
+	<br>
+	<img src="./assets/react-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/express-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/eslint-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>	
+	<img src="./assets/vscode-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/visualstudio-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/git.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/github-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/githubactions-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/githubcodespaces-original.svg"  alt="" width="35px"  hspace="2" />	
+	<img src="./assets/gcc-original.svg"  alt="" width="35px"  hspace="2" />		
+	<img src="./assets/kaggle-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/jupyter-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/unity-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/pycharm-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/matplotlib-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/matlab-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/arduino-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>
+	<img src="./assets/apache-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/firebase-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/heroku-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/netlify-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/vercel-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/sanity-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/mariadb-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/mongodb-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/mongoose-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/mysql-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/postman-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>
+	<img src="./assets/reactbootstrap-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/reactnavigation-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/reactrouter-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/bootstrap-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/materialui-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/canva-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/photoshop-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/adobe-premiere-pro.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/notion-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>
+	<img src="./assets/android-original.svg"  alt="android" width="35px"  hspace="2" />
+	<img src="./assets/windows11-original.svg"  alt="win" width="35px"  hspace="2" />
+	<img src="./assets/linux-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/debian-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/kali.png"  alt="" width="38px"  hspace="2" />
+	<img src="./assets/parrot.png"  alt="" width="48"  hspace="2" />
+	<img src="./assets/ubuntu-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>
+	<!---<img src="./assets/chrome-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />
+	<br>
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/"  alt="" width="35px"  hspace="2" />--->
+</p>
+
+
 
 
 
