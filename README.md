@@ -126,7 +126,7 @@ flowchart LR
  ```
 
 ## Contribution Graph
-[![Shourya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShouryaBrahmastra&react-dark&hide_border=true&area=true)](https://github.com/ShouryaBrahmastra/github-readme-activity-graph)
+[![Shourya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShouryaBrahmastra&theme=react-dark&hide_border=true&area=true)](https://github.com/ShouryaBrahmastra/github-readme-activity-graph)
 
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
