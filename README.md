@@ -26,19 +26,19 @@
 ## Connect with me:
 <p align="center">
 	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px"  hspace="20" />
 	</a>
 	<a href="https://twitter.com/Shourya_Nishi">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px"  hspace="20" />
 	</a>
 	<a href="t.me/shouryabrahmastra">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px"  hspace="20" />
 	</a>
 	<a href="https://www.instagram.com/shouryagupta2002/">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px"  hspace="20" />
 	</a>
 	<a href="mailto:gptshourya02@gmail.com">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px"  hspace="20" />
 	</a>
 </p>
 
