@@ -24,17 +24,23 @@
 	
 
 ## Connect with me:
-
-[![LinkedIn](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
-[![Twitter](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png)](https://twitter.com/Shourya_Nishi)
-[![Telegram](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png)](t.me/shouryabrahmastra)
-<a href="https://www.instagram.com/shouryagupta2002/">
-	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="https://www.instagram.com/shouryagupta2002/" alt="Instagram" width="65px" />
-</a>
-[![Mail](https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png)](mailto:gptshourya02@gmail.com)
-
-
-<br />
+<p align="center">
+	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px" />
+	</a>
+	<a href="https://twitter.com/Shourya_Nishi">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px" />
+	</a>
+	<a href="t.me/shouryabrahmastra">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px" />
+	</a>
+	<a href="https://www.instagram.com/shouryagupta2002/">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px" />
+	</a>
+	<a href="mailto:gptshourya02@gmail.com">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px" />
+	</a>
+</p>
 
 ---
 
