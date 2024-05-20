@@ -52,11 +52,10 @@
 
 ---
 
+<!---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DF0000" alt="GitHub Streak" /></a>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>--->
 
 ---
 ## 📚📂 My Works
