@@ -24,28 +24,27 @@
 	
 
 ## Connect with me:
-<p align="center">
+<p align="left">
 	<a href="https://www.linkedin.com/in/shourya-gupta-12911721b/" target="_blank">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="35px"  hspace="20" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/link.png" target="_blank" alt="LinkedIn" width="25px"  hspace="10" />
 	</a>
 	<a href="https://twitter.com/Shourya_Nishi" target="_blank">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="35px"  hspace="20" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="25px"  hspace="10" />
 	</a>
-	<a href="t.me/shouryabrahmastra" target="_blank">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="35px"  hspace="20" />
+	<a href="https://t.me/shouryabrahmastra" target="_blank">
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="25px"  hspace="10" />
 	</a>
 	<a href="https://www.instagram.com/shouryagupta2002/" target="_blank">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="35px"  hspace="20" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/1516920567instagram-png-logo-transparent-removebg-preview.png" target="_blank" alt="Instagram" width="25px"  hspace="10" />
 	</a>
 	<a href="mailto:gptshourya02@gmail.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="35px"  hspace="20" />
+		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/mail.png" target="_blank" alt="Mail" width="25px"  hspace="10" />
 	</a>
 </p>
 
 ---
-
-## 🔧Languages and Tools:
-
+<div align="center"> <h2> 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃 </h2> </div>
+ 
 <p align="center">
 	<img src="./assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
 	<img src="./assets/python-original.svg"  alt="python" width="35px"  hspace="2" />
@@ -177,9 +176,12 @@
 
 ---
 ## 🏆 GitHub Trophies
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra&theme=midnight_purple" alt="ShouryaBrahmastra" /></a> 
+<p align="center">
+ 	<a href="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra"><img src="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra&theme=algolia&no-bg=true&column=5&margin-w=15&margin-h=15" alt="ShouryaBrahmastra" /></a> 
+</p>
 
 ---
+
 ## GitHub Stats
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
