@@ -72,7 +72,7 @@
 	<img src="./assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
-	<br>	
+	<br>
 	<img src="./assets/vscode-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/visualstudio-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/git.png"  alt="" width="35px"  hspace="2" />
@@ -87,6 +87,19 @@
 	<img src="./assets/matplotlib-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/matlab-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/arduino-original.svg"  alt="" width="35px"  hspace="2" />
+	<br>
+	<img src="./assets/chrome-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/stackoverflow-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/Tor.png"  alt="" width="35px"  hspace="2" />	
+	<img src="./assets/burp.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/Nessus.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/wireshark.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/Etercap.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/nmap.png"  alt="" width="35px"  hspace="2" />
 	<br>
 	<img src="./assets/apache-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/firebase-original.svg"  alt="" width="35px"  hspace="2" />
@@ -118,14 +131,8 @@
 	<img src="./assets/kali.png"  alt="" width="38px"  hspace="2" />
 	<img src="./assets/parrot.png"  alt="" width="48"  hspace="2" />
 	<img src="./assets/ubuntu-original.svg"  alt="" width="35px"  hspace="2" />
-	<br>
-	<!---<img src="./assets/chrome-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />
-	<br>
-	<img src="./assets/"  alt="" width="35px"  hspace="2" />
+	<br>	
+	<!---<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
