@@ -105,6 +105,7 @@
 	<img src="./assets/reactrouter-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/bootstrap-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/materialui-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/tailwindcss-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/canva-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/photoshop-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/adobe-premiere-pro.png"  alt="" width="35px"  hspace="2" />
