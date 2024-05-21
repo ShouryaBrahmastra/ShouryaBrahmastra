@@ -31,7 +31,7 @@
 	<a href="https://twitter.com/Shourya_Nishi" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/Twitter.png" target="_blank" alt="Twitter" width="25px"  hspace="10" />
 	</a>
-	<a href="t.me/shouryabrahmastra" target="_blank">
+	<a href="https://t.me/shouryabrahmastra" target="_blank">
 		<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/tele.png" target="_blank" alt="Telegram" width="25px"  hspace="10" />
 	</a>
 	<a href="https://www.instagram.com/shouryagupta2002/" target="_blank">
