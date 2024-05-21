@@ -176,9 +176,12 @@
 
 ---
 ## 🏆 GitHub Trophies
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra&theme=midnight_purple" alt="ShouryaBrahmastra" /></a> 
+<p align="center">
+ 	<a href="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra"><img src="https://github-profile-trophy.vercel.app/?username=ShouryaBrahmastra&theme=algolia&no-bg=true&column=5&margin-w=15&margin-h=15" alt="ShouryaBrahmastra" /></a> 
+</p>
 
 ---
+
 ## GitHub Stats
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShouryaBrahmastra&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
