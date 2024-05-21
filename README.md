@@ -43,9 +43,8 @@
 </p>
 
 ---
-
-## 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃
-
+<div align="center"> <h2> 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃 </h2> </div>
+ 
 <p align="center">
 	<img src="./assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
 	<img src="./assets/python-original.svg"  alt="python" width="35px"  hspace="2" />
