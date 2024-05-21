@@ -44,7 +44,7 @@
 
 ---
 
-## 🔧Languages and Tools:
+## 🔧Languages,Frameworks and Tools:
 
 <p align="center">
 	<img src="./assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
