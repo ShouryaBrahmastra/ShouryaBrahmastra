@@ -93,6 +93,7 @@
 	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/stackoverflow-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/win_android.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Tor.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/burp.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Nessus.png"  alt="" width="35px"  hspace="2" />
