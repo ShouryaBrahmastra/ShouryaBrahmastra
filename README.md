@@ -91,7 +91,7 @@
 	<img src="./assets/firefox-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />	
-	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/youtube.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/stackoverflow-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/win_android.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Tor.png"  alt="" width="35px"  hspace="2" />	
