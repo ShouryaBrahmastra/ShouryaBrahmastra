@@ -1,14 +1,14 @@
 <!---[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)--->
 <img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>
 
-##  <div align="center"><img align="center" alt="GIF" src="./welcome-fire.gif" style="padding: 50px" /></div>
+##  <div align="center"><img align="center" alt="GIF" src="./assets/welcome-fire.gif" style="padding: 50px" /></div>
 ### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shourya-portfolio.netlify.app/) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-12911721b/)
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Volleyball+Player;Web+Developer+;Network+security+analysis+;OS+installation+;Computing+Troubleshooter;Linux+lover;Ethical+Hacker;Artist"></a>
 </p>
- <p align="center"><img  alt="GIF" src="./code-coding.gif" width="200" border-radius="5px" /></p>
+ <p align="center"><img  alt="GIF" src="./assets/code-coding.gif" width="200" border-radius="5px" /></p>
  <br>
 	
 
@@ -88,15 +88,17 @@
 	<img src="./assets/arduino-original.svg"  alt="" width="35px"  hspace="2" />
 	<br>
 	<img src="./assets/chrome-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/firefox-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />	
+	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/stackoverflow-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Tor.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/burp.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Nessus.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/wireshark.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/metasploit.png"  alt="" width="28px"  hspace="2" />
 	<img src="./assets/Etercap.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/nmap.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/invicti_logo.png"  alt="" width="65px"  hspace="2" />
@@ -132,6 +134,10 @@
 	<img src="./assets/parrot.png"  alt="" width="48"  hspace="2" />
 	<img src="./assets/ubuntu-original.svg"  alt="" width="35px"  hspace="2" />
 	<br>	
+	<img src="./assets/chatgpt (2).png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/Google-Bard-.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/hackergpt.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/githubcopiolet.png"  alt="" width="45px"  hspace="2" />
 	<!---<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
@@ -163,7 +169,7 @@
 <p align="center">
 	<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/code.gif" width="300" />
 </p1>
-<!---<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="240" /><p>--->
+<!---<img align="right" alt="GIF" src="./assets/codes.gif" width="240" /><p>--->
 
 - [1st Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
@@ -237,7 +243,7 @@ flowchart LR
 
 <div align="center">
 <p>Feel free to express something about my works in my guest book:</p>
-<a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="./assets/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
