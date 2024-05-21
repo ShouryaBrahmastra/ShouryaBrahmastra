@@ -90,7 +90,6 @@
 	<img src="./assets/chrome-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/firefox-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/google-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/edge.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/opera-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/stackoverflow-original.svg"  alt="" width="35px"  hspace="2" />
@@ -107,7 +106,8 @@
 	<img src="./assets/firebase-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/heroku-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/netlify-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/vercel-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/vercel-original.svg"  alt="" width="35px"  hspace="2" />	
+	<img src="./assets/googlecloud-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/sanity-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/mariadb-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/mongodb-original.svg"  alt="" width="35px"  hspace="2" />
