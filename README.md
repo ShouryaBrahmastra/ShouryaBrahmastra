@@ -75,7 +75,7 @@
 	<img src="./assets/vscode-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/visualstudio-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/git.png"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/github-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/github%20coloured.png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/githubactions-plain.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/githubcodespaces-original.svg"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/gcc-original.svg"  alt="" width="35px"  hspace="2" />		
