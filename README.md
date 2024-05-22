@@ -251,11 +251,12 @@ flowchart LR
 
 <hr>
 <div  align="center"> <img src="./assets/snake.svg" /></div>
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/thank.svg" />
 
 ---
 <div  align="center">
-	<img  width="50%" src="./assets/matrix.gif" align="center"/>
+	<img  width="400px" src="./assets/matrix.gif" align="center"  hspace="4" />
+	<img  width="400px" src="./assets/intestellar.gif" align="center"/>
 </div>
 
 
