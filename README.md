@@ -138,9 +138,9 @@
 	<br>	
 	<img src="./assets/chatgpt (2).png"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/Google-Bard-.png"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/blackbox.png"  alt="" width="50px"  hspace="2" />
-	<img src="./assets/hackergpt.png"  alt="" width="35px"  hspace="2" />
+	<img src="./assets/hackergpt.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/githubcopiolet.png"  alt="" width="45px"  hspace="2" />
+	<img src="./assets/blackbox.png"  alt="" width="50px"  hspace="2" />
 	<!---<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
