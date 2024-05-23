@@ -46,18 +46,18 @@
 <div align="center"> <h2> 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃 </h2> </div>
  
 <p align="center">
-	<img src="./assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
-	<img src="./assets/python-original.svg"  alt="python" width="35px"  hspace="2" />
-	<img src="./assets/java-original.svg"  alt="java" width="35px"  hspace="2" />
-	<img src="./assets/javascript-plain.svg"  alt="javascript" width="35px"  hspace="2" />
-	<img src="./assets/html.png"  alt="html" width="35px"  hspace="2" />
-	<img src="./assets/css.png"  alt="css" width="35px"  hspace="2" />
-	<img src="./assets/bash-original.svg"  alt="bash" width="35px"  hspace="2" />
-	<img src="./assets/json-original.svg"  alt="json" width="35px"  hspace="2" />
-	<img src="./assets/sql.png"  alt="sql" width="35px"  hspace="2" />
-	<img src="./assets/powershell-original.svg"  alt="powershell" width="35px"  hspace="2" />
-	<img src="./assets/nano-original.svg"  alt="nano" width="35px"  hspace="2" />
-	<img src="./assets/markdown-original.svg"  alt="" width="40px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/c-original.svg"  alt="c-programming" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/python-original.svg"  alt="python" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/java-original.svg"  alt="java" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/javascript-plain.svg"  alt="javascript" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/html.png"  alt="html" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/css.png"  alt="css" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/bash-original.svg"  alt="bash" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/json-original.svg"  alt="json" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/sql.png"  alt="sql" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/powershell-original.svg"  alt="powershell" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/nano-original.svg"  alt="nano" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/markdown-original.svg"  alt="" width="40px"  hspace="2" />
 	<br>
 	<img src="./assets/react-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
