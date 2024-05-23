@@ -141,6 +141,7 @@
 	<img src="./assets/hackergpt.png"  alt="" width="35px"  hspace="2" />	
 	<img src="./assets/githubcopiolet.png"  alt="" width="45px"  hspace="2" />
 	<img src="./assets/blackbox.png"  alt="" width="50px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/ollamalogo.png"  alt="" width="33px"  hspace="2" />
 	<!---<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/"  alt="" width="35px"  hspace="2" />
