@@ -59,10 +59,10 @@
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/nano-original.svg"  alt="nano" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/markdown-original.svg"  alt="" width="40px"  hspace="2" />
 	<br>
-	<img src="./assets/react-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/react-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/express-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/eslint-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
