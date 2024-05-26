@@ -70,7 +70,7 @@
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/d878632646784e599babca8a7449e38512cb8c95/assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/5f07631b10b8f048eb962738af3c2751501cbb5a/assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4b17b8fc10916607a30ff6a2e0b6e106294fd6cb/assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4e1af7e574619dd804f2268772609af32ab69baa/assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
 	<br>
 	<img src="./assets/vscode-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/visualstudio-original.svg"  alt="" width="35px"  hspace="2" />
