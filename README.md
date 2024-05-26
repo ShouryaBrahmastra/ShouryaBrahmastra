@@ -64,7 +64,7 @@
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4c2b4716416bef65872d65fce3a2d197fc6c3399/assets/express-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4c2b4716416bef65872d65fce3a2d197fc6c3399/assets/express-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/6d08d3f4cc7f9b9ea650eb97e8c964aa25414e4e/assets/eslint-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f69d7cccd89588c8678ac9b11d35cd04e76832db/assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/6f76656e5ef8d6ab8c9b61a187bbadfffecf2203/assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/d878632646784e599babca8a7449e38512cb8c95/assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
