@@ -66,7 +66,7 @@
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4c2b4716416bef65872d65fce3a2d197fc6c3399/assets/express-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4c2b4716416bef65872d65fce3a2d197fc6c3399/assets/express-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f69d7cccd89588c8678ac9b11d35cd04e76832db/assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/6f76656e5ef8d6ab8c9b61a187bbadfffecf2203/assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
