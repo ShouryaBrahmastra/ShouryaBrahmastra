@@ -1,5 +1,5 @@
 <!---[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)--->
-<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>  
+<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>   
 
 ##  <div align="center"><img align="center" alt="GIF" src="./assets/welcome-fire.gif" style="padding: 50px" /></div>
 ### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shourya-portfolio.netlify.app/) <br>
