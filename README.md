@@ -1,5 +1,5 @@
 <!---[![@shouryabrahmastra's Holopin board](https://holopin.me/shouryabrahmastra)](https://holopin.io/@shouryabrahmastra)--->
-<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/>
+<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/assets/firstbg.jpg" border-radius="10px" alt="wallpaper"/> 
 
 ##  <div align="center"><img align="center" alt="GIF" src="./assets/welcome-fire.gif" style="padding: 50px" /></div>
 ### Hi there, I'm Shourya Gupta   - aka [ShouryaBrahmastra](https://shourya-portfolio.netlify.app/) <br>
@@ -20,7 +20,7 @@
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate with other content creators
 	
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, play volleyball🏐 & play video games🎮
+- ⚡ Fun fact: I love to draw, play volleyball🏐 & video games🎮
 	
 
 ## Connect with me:
@@ -59,18 +59,18 @@
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/nano-original.svg"  alt="nano" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/markdown-original.svg"  alt="" width="40px"  hspace="2" />
 	<br>
-	<img src="./assets/react-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/express-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/eslint-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
-	<img src="./assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/react-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/redux-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/atom-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f8a76e11f99f2160a3a7e1dca93002c24343c4b1/assets/axios-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4c2b4716416bef65872d65fce3a2d197fc6c3399/assets/express-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/6d08d3f4cc7f9b9ea650eb97e8c964aa25414e4e/assets/eslint-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/f69d7cccd89588c8678ac9b11d35cd04e76832db/assets/flask-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/6f76656e5ef8d6ab8c9b61a187bbadfffecf2203/assets/nextjs-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/d878632646784e599babca8a7449e38512cb8c95/assets/nodejs-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/5f07631b10b8f048eb962738af3c2751501cbb5a/assets/nodemon-original.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4b17b8fc10916607a30ff6a2e0b6e106294fd6cb/assets/devicon-plain.svg"  alt="" width="35px"  hspace="2" />
+	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/4e1af7e574619dd804f2268772609af32ab69baa/assets/oauth-original.svg"  alt="" width="35px"  hspace="2" />
 	<br>
 	<img src="./assets/vscode-original.svg"  alt="" width="35px"  hspace="2" />
 	<img src="./assets/visualstudio-original.svg"  alt="" width="35px"  hspace="2" />
