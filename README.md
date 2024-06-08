@@ -175,7 +175,7 @@
 </p1>
 <!---<img align="right" alt="GIF" src="./assets/codes.gif" width="240" /><p>--->
 
-- [1st Frontend website](https://shouryabrahmastra.github.io/Frontend-first-website/)
+- [Season UI-UX](https://shouryabrahmastra.github.io/Season-UI-UX/)
 - [Online-Calendar](https://shouryabrahmastra.github.io/onlinecalendar/)
 - [Digital responsive clock](https://shouryabrahmastra.github.io/LampTime-Date/)
 - [Threat Analyzer Vulnweb_Detailed_Report ](https://shouryabrahmastra.github.io/Vulnweb_Detailed_Report/)
